@@ -271,7 +271,7 @@ Managed financial operations across monthly reporting cycles while collaborating
 
 # GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=WIZZARS&theme=algolia&no-frame=true&row=2&column=4)](https://github.com/WIZZARS)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=WIZZARS&theme=algolia&no-frame=true&row=1&column=6)](https://github.com/WIZZARS)
 
 </div>
 
