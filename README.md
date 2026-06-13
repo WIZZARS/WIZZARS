@@ -28,7 +28,13 @@
 </div>
 
 ---
+<div align="center">
 
+# Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/WIZZARS/WIZZARS/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 <div align="center">
 
 # About Me
@@ -287,13 +293,7 @@ Managed financial operations across monthly reporting cycles while collaborating
 
 ---
 
-<div align="center">
 
-# Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/WIZZARS/WIZZARS/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
